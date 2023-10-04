@@ -1,0 +1,142 @@
+.navbar-expand-lg{
+    margin-left: 133px;
+    margin-right: 180px;
+    background-color: white !important;
+}
+
+
+
+.navbar-collapse{
+    display: flex ;
+    justify-content: flex-end !important;
+}
+
+.navbar-collapse li{
+    font-size: 15px;
+    font-family: roboto;
+    font-weight: 600;
+    color: #ababab;
+}
+
+.active{
+    color: #00b39b !important;
+}
+
+
+.head-tittle{
+    justify-content: ;
+    margin-top: 100px;
+}
+
+.head-tittle h1{
+    font-size: 2.125rem;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 100;
+    margin-top: 35px;
+}
+
+.header p{
+    font-size: 16px;
+    color: #747474;
+    font-family: roboto;
+    margin-bottom: 30px;
+}
+
+#titlle-col{
+    width: 497.5px;
+    height: 157.58px;
+    margin-top: 50px;
+    
+}
+
+.title-2row{
+    display: flex;
+    margin-right: 345px;
+    margin-left: 312px;
+}
+
+
+.title1-row{
+justify-content: space-around;}
+
+
+
+#title1-col{background-color: #00ccb1;
+    
+    padding: 32px 32px 0px;
+border-radius: 10px;
+width: 331.6px;
+height: 365px;
+display: block;
+justify-content: center;
+padding-right: 10px; 
+margin-right: 15px;
+}
+
+#title1-col h1 {color: #FFFFFF;
+font-size: 26px;
+font-family:"work sans";
+}
+
+#title1-col h2{color: #FFFFFF;
+    font-size: 24px;
+    font-family:"work sans";}
+
+ #title2-col{background-color: #3d83df;
+    
+    padding: 32px 32px 0px;
+border-radius: 10px;
+width: 331.6px;
+height: 365px;
+ 
+} 
+
+#title2-col h1 {color: #FFFFFF;
+    font-size: 26px;
+    font-family:"work sans";
+    }
+    
+#title2-col h2{color: #FFFFFF;
+        font-size: 24px;
+        font-family:"work sans";}
+
+ #title3-col{background-color: #1b2734;
+          padding: 32px 32px 0px;  
+          border: #FFFFFF;
+        border-radius: 10px;
+        width: 331.6px;
+        height: 365px;
+    margin-left: 15px;}
+        
+ #title3-col h1 {color: #FFFFFF;
+            font-size: 26px;
+            font-family:"work sans";
+            }
+            
+ #title3-col h2{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family:"work sans";}
+
+
+
+
+
+    .global-row {
+        margin-left: 418px;
+        margin-right: 377px;
+        margin-top: 50px;
+     }
+  
+#child2-col1{    margin-right: -40px;
+}
+.global-row {width: 321.74;
+height: 101.37px;}
+
+.global-row h1{
+    font-size: 1.5rem  ;
+    font-weight: 400;   
+    color: #00b39b;
+}
+.img-hover

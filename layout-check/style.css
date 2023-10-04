@@ -1,0 +1,50 @@
+.container{display: flex;
+
+height: 70px;
+}
+.navigation{display: flex;
+    justify-content: flex-end;
+padding-right: 0px;
+padding-top: 13px;
+font-weight:400 ;
+line-height: 30px;
+height:  129.875px;
+width: 104.719px;
+text-size-adjust :100%;
+}
+#about-us{padding-right: 25px;
+    display: flex;
+    font-family: Roboto, Arial, sans-serif;
+color: #00b39b;
+font-size: 15px;
+font-weight: 400;}
+#Career{padding-right: 20px;
+color: #747474;
+font-family: Roboto, Arial, sans-serif;
+font-size: 15px;
+font-weight: 400;}
+.doc-gr{display: flex;
+padding-left: 135px;
+padding-top: 0px;}
+#doc-gr{padding-right: 5px;
+display: flex;
+color: #00b39b;}
+
+#departments{color: #747474;
+    font-family: Roboto, Arial, sans-serif;
+font-size: 15px;
+font-weight: 400;}
+#group{padding-right: 490px;
+color: #747474;}
+#logo1{padding-top: 11px;
+padding-right: 5px;
+}
+.logo-docplanner{font-family:"work sans",Arial,sans-serif;
+font-size: 32px;
+font-weight: 300;
+line-height: 68px;
+height: 33px;
+max-width: 100%;
+padding-right: 580px;
+padding-top: 7px;
+}
